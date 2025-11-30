@@ -17,7 +17,7 @@
 - Spring AI project [ https://spring.io/projects/spring-ai ] 를 이용한 ChatGPT-4o-mini 챗봇
 - 상세 dependency는 build.gridle을 참조해 주세요.
 
-### 앱실행전 필수 준비사항:
+### 앱 실행 전 필수 준비사항:
 1. openai-api-key 발급: https://platform.openai.com/settings/organization/api-keys 에서 "Create new secret key"로 발급받는다.
 2. openai-api-key 등록: STS4 IDE 상단메인메뉴에서 "Run\Run Configurations..." 로 가서 "Environment"탭을 클릭해서 "Add..." 버튼누르고 Variable="OPENAI_API_KEY", Value=sk-proj-.... (<=발급받은키값) 을 세팅해준다.
 
