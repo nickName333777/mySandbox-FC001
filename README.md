@@ -2,9 +2,7 @@
 <br>
 <br>
 
-
-
- <img width="542" height="481" alt="OpenAI Chat_api_ok" src="https://github.com/user-attachments/assets/80ebbe60-0463-40f3-83c7-3ae3960a068e" />
+<img width="520" height="767" alt="OpenAI Chat_api_joke_ok" src="https://github.com/user-attachments/assets/e48418bd-a2f5-45a1-9218-6205f9e8d0c9" />
 
 <br>
 <br>
