@@ -1,4 +1,4 @@
-## [bite-size 기능 구현] Spring AI를 이용한 챗봇 by 초급 자바 개발자
+## [bite-size 기능 구현] Spring AI를 이용한 챗봇 구현
 <br>
 <br>
 
